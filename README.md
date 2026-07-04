@@ -16,6 +16,7 @@ Scripts/ : éventuels scripts Python complémentaires.
 Document final
 
 Le document final est disponible dans le dossier Docs/.
+[Lire le document final](Docs/LittRu_analysis.pdf)
 
 Reproduire les analyses
 
