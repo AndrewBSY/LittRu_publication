@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, veuillez le citer comme indiqué ci-dessous."
+title: "Une analyse des œuvres et des thèmes de la littérature russe"
+authors:
+  - family-names: "Mery"
+    given-names: "André"
+version: "1.0"
+date-released: "2026-07-05"
+repository-code: "https://github.com/AndrewBSY/LittRu_publication"
+url: "https://github.com/AndrewBSY/LittRu_publication"
