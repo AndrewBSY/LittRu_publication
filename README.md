@@ -30,21 +30,22 @@ Données
 Les données sont construites à partir d’un codage thématique personnel des œuvres étudiées.
 Chaque œuvre est associée à un ensemble de thèmes codés sous forme binaire : 1 lorsque le thème est présent, 0 lorsqu’il est absent.
 
-Logiciels utilisés
+## Logiciels utilisés
 
 Les analyses ont été réalisées avec Python, notamment avec les bibliothèques suivantes :
 
-pandas
-numpy
-matplotlib
-scikit-learn
-scipy
-networkx
-Auteur
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- scipy
+- networkx
+
+## Auteur
 
 André Mery
 
-Licence
+## Licence
 
 Le document, les données et les figures sont mis à disposition sous licence
 Creative Commons Attribution 4.0 International (CC BY 4.0).
