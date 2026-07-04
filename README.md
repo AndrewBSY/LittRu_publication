@@ -46,4 +46,7 @@ André Mery
 
 Licence
 
-À préciser.
+Le document, les données et les figures sont mis à disposition sous licence
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Les notebooks et scripts Python peuvent être réutilisés sous licence MIT.
