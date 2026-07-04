@@ -17,6 +17,8 @@ Document final
 
 Le document final est disponible dans le dossier Docs/.
 [Lire le document final](Docs/LittRu_analysis.pdf)
+Si l’aperçu GitHub n’affiche pas correctement toutes les pages (70), utiliser le bouton
+**Download raw file** pour télécharger le PDF complet.
 
 Reproduire les analyses
 
