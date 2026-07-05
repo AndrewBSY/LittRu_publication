@@ -8,12 +8,12 @@ Contenu du dépôt
 
 Le dépôt est organisé de la manière suivante :
 
-Data/ : données utilisées pour les analyses, notamment le fichier CSV principal.
-Notebooks/ : notebooks Jupyter permettant de reproduire les calculs et les graphiques.
-Images/ : graphiques produits par les notebooks.
-Docs/ : document final au format PDF.
-Scripts/ : éventuels scripts Python complémentaires.
-Document final
+- Data/ : données utilisées pour les analyses, notamment le fichier CSV principal.
+- Notebooks/ : notebooks Jupyter permettant de reproduire les calculs et les graphiques.
+- Images/ : graphiques produits par les notebooks.
+- Docs/ : document final au format PDF.
+- Scripts/ : éventuels scripts Python complémentaires.
+- Document final
 
 Le document final est disponible dans le dossier Docs/.
 [Lire le document final](Docs/LittRu_analysis.pdf)
