@@ -1,5 +1,7 @@
 ## Analyse des œuvres et des thèmes de la littérature russe
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21206585.svg)](https://doi.org/10.5281/zenodo.21206585)
+
 Ce dépôt contient les fichiers associés à une étude personnelle consacrée aux œuvres et aux thèmes de la littérature russe.
 
 L’objectif du projet est d’analyser un corpus d’œuvres littéraires russes à partir d’une matrice binaire indiquant la présence ou l’absence de différents thèmes dans chaque œuvre. Les analyses produisent notamment des tableaux, des graphiques, des cartes factorielles, des classifications et des représentations de réseaux de co-occurrence thématique.
