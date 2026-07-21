@@ -1,6 +1,6 @@
 ## Analyse des œuvres et des thèmes de la littérature russe
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21206585.svg)](https://doi.org/10.5281/zenodo.21206585)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21476674.svg)](https://doi.org/10.5281/zenodo.21476674)
 
 Ce dépôt contient les fichiers associés à une étude personnelle consacrée aux œuvres, aux auteurs et aux thèmes de la littérature russe.
 
